@@ -9,15 +9,15 @@
 
 ### Languages and Tools:
 
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width="26px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="26px">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" width="26px">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" width="26px">
 <br>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" width="26px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" width="26px">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" width="26px">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" width="26px">
 <br>
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png" width="26px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="26px">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" width="26px">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/jenkins/jenkins.png" width="26px">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="26px">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png" width="26px">
 
 ---
 
